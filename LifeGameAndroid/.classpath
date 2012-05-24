@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="C:/Users/tatsuya/android-sdks/platforms/android-10/android.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tatsuya/android-sdks/tools/support/annotations.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
