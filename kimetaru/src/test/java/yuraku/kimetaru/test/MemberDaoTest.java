@@ -86,4 +86,11 @@ public class MemberDaoTest
         Assert.assertEquals("2125552121", newMember.getPhoneNumber());
         return;
     }
+
+    @Test
+    public void testDummy()
+    {
+    	return;
+    }
+
 }
