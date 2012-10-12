@@ -78,7 +78,7 @@ public class LifeGameTest {
 		world.setGeneration(10);
 	}
 
-	@Deprecated
+	@Test
 	public void 表示_世界の表示2() {
 		world.setCell(0, 1);
 		world.setCell(5, 0);
